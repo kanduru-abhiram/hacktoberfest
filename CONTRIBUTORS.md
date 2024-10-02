@@ -1,3 +1,8 @@
+#### Name: K Abhiram
+- Place: Andhra Pradesh, India
+- Bio: Software Engineer
+- GitHub: [kanduru-abhiram](https://github.com/kanduru-abhiram)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
